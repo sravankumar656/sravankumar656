@@ -7,6 +7,7 @@
   - 🔹 **Data extraction, cleaning, visualization, and publishing reports**
   - 🔹 **SQL, PostgreSQL, and SQL Server queries**
   - 🔹 **Data storytelling and business intelligence**
+  - 🔹 **powerbi and powerbi service excel sql Excel**
 - 📫 How to reach me: **sravankumar5900@gmail.com**
 
 ---
